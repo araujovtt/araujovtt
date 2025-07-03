@@ -1,4 +1,4 @@
-### Hi there 👋
+### I show programming through my eyes
 
 <!--
 **araujovtt/araujovtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
